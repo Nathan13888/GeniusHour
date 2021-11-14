@@ -1,4 +1,4 @@
 ---
 layout: category
-title: weekly updates
+title: Weekly Updates
 ---
