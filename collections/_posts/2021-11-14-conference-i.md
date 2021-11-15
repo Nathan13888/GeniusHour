@@ -2,6 +2,7 @@
 title: "Conference I | Conference Rundown"
 date: 2021-11-14
 layout: post
+authors: ["Alex Tang", "Jasmine Ah Yong", "Max Liu", "Nathan Chung"]
 categories: ["Conference Rundowns"]
 description: Summary of information for the first conference.
 thumbnail: "https://i.pinimg.com/originals/51/82/d0/5182d08b7e710deae2a23683d4400878.jpg"
