@@ -43,5 +43,3 @@ Our group decided to focus on dyeing for several reasons:
 - Experiments can be performed safely with relatively few precautions, making it ideal for at-home experimentation. Additionally, this makes it more conducive to videography.
 - There is a strong connection to various topics covered in this course; hydrocarbons (organic chemistry), intermolecular/intramolecular forces
 - Our group  already has resources (various dyes and inks) available that are suitable for experimentation
-
-test
