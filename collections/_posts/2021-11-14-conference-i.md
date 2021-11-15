@@ -2,7 +2,7 @@
 title: "Conference I | Conference Rundown"
 date: 2021-11-14
 layout: post
-authors: ["Alex Tang", "Jasmine Ah Yong", "Max Liu", "Nathan Chung"]
+authors: ["Alex Tang", "Jasmine AY", "Max Liu", "Nathan Chung"]
 categories: ["Conference Rundowns"]
 description: Summary of information for the first conference.
 thumbnail: "https://i.pinimg.com/originals/51/82/d0/5182d08b7e710deae2a23683d4400878.jpg"
@@ -43,3 +43,5 @@ Our group decided to focus on dyeing for several reasons:
 - Experiments can be performed safely with relatively few precautions, making it ideal for at-home experimentation. Additionally, this makes it more conducive to videography.
 - There is a strong connection to various topics covered in this course; hydrocarbons (organic chemistry), intermolecular/intramolecular forces
 - Our group  already has resources (various dyes and inks) available that are suitable for experimentation
+
+test
