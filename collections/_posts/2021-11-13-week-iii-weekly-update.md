@@ -2,7 +2,7 @@
 title: "Week III | Weekly Update"
 date: 2021-11-13
 layout: post
-authors: ["Jasmine Ah Yong"]
+authors: ["Jasmine AY"]
 categories: ["Weekly Updates"]
 description: Progress update as of Friday November 12.
 thumbnail: "https://i.pinimg.com/originals/76/fe/94/76fe94c73156f6c2c74ccf9efd5e2786.jpg"
