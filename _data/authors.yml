@@ -6,3 +6,19 @@ mike_vance:
   name: 'Mike Vance'
   image: 'assets/images/author/mike-vance.jpg'
   twitter: '@zerostaticio'
+alex_tang:
+  name: 'Alex Tang'
+  image: 'assets/images/author/mike-vance.jpg'
+  twitter: '@zerostaticio'
+jasmine_ahyong:
+  name: 'Jasmine Ah Yong'
+  image: 'assets/images/author/IMG_5063-03.jpg'
+  twitter: '@zerostaticio'
+max_liu:
+  name: 'Max Liu'
+  image: 'assets/images/author/mike-vance.jpg'
+  twitter: '@zerostaticio'
+nathan_chung:
+  name: 'Nathan Chung'
+  image: 'assets/images/author/mike-vance.jpg'
+  twitter: '@zerostaticio'
