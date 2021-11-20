@@ -1,0 +1,38 @@
+---
+title: "Week IV | Weekly Update"
+date: 2021-11-20
+layout: post
+authors: ["Jasmine AY"]
+categories: ["Weekly Updates"]
+description: Progress update as of Friday November 19.
+thumbnail: "https://i.pinimg.com/originals/7d/d7/e7/7dd7e74a693a4dec118959922f853a8a.jpg"
+image: "https://i.pinimg.com/originals/7d/d7/e7/7dd7e74a693a4dec118959922f853a8a.jpg"
+---
+
+Seeing as this was an off-week for chemistry, we did not get much done. However, some foundational work was done and progress, though minor, was made on all fronts.
+
+Future goals will be integrated into each subsection for this post, given the minimal amount of content to cover this week. Specifics sources and gleaned information will be avoided for the same reason.
+
+## Research
+
+No significant strides in research were made. None of the companies responded to our inquiries, so different channels have been attempted. We are hopeful that they will succeed; however, the likelihood of response is admittedly low.
+
+We have a significant queue of academic journals to read through. Based on what little we have been able to finish, we find it likely that this will be a significant help to understanding the complex chemistry of dyeing. We will continue working through this queue in the coming weeks.
+
+## Experimental Design
+
+We have finished acquiring and centralizing materials. Resultantly, we must only finish a bit of preparatory work before beginning the recorded experiment. Some more cutting and general prep was completed this week. Burn tests for fibre composition and b-roll were done, but might be redone for quality control.
+
+Some further refinement with regards to experiment focus was made. In an effort to control the scope of our work, we have made alterations such as using full immersion in the dyeing process. This will be expanded on below when we discuss topics.
+
+Future work will primarily be done in the experiment proper rather than design.
+
+## Website Design
+
+Small formatting issues were worked through, and the less-technologically-inclined members have made progress in understanding the function of the website.
+
+In the front end of the coming week, we aim to finish templating the website.
+
+## Topic Discussion
+
+Continuing our work from last week, we continued discussing our topic. In future, we aim to focus more strongly on the academic chemistry behind dyeing -- this means moving away from topics such as capillary action and staining. This is why the experimental desingn has been altered for full-immersion dyeing; since we do not need to track capillary action, it is not necessary to work with partial immersion. This also simplifies the experiment and reduces potential for error. The consequences of this decision on research for things like inks remain to be seen -- further research must be done in order to ascertain how to move forward.
