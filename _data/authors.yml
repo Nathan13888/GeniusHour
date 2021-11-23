@@ -1,20 +1,12 @@
-sage_kirk:
-  name: 'Sage Kirk'
-  image: 'assets/images/author/sage-kirk.jpg'
-  twitter: '@zerostaticio'
-mike_vance:
-  name: 'Mike Vance'
-  image: 'assets/images/author/mike-vance.jpg'
-  twitter: '@zerostaticio'
 alex_tang:
   name: 'Alex Tang'
-  image: 'assets/images/author/alex.jpg'
+  image: 'assets/images/author/alex.png'
 jasmine_ay:
   name: 'Jasmine AY'
   image: 'assets/images/author/jasmine.jpg'
 max_liu:
   name: 'Max Liu'
-  image: 'assets/images/author/mike-vance.jpg'
+  image: 'assets/images/author/max.jpg'
 nathan_chung:
   name: 'Nathan Chung'
-  image: 'assets/images/author/mike-vance.jpg'
+  image: 'assets/images/author/nathan.png'
