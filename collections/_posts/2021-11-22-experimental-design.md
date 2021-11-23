@@ -5,11 +5,11 @@ layout: post
 authors: ["Jasmine AY"]
 categories: ["Project Details"]
 description: Outline for our "show and tell" components.
-thumbnail: "https://i.pinimg.com/originals/34/36/94/34369417ef8d57076bc76111c93ba581.jpg"
-image: "https://i.pinimg.com/originals/34/36/94/34369417ef8d57076bc76111c93ba581.jpg"
+thumbnail: "https://i.pinimg.com/originals/9e/3e/5f/9e3e5fb015d5e6c7d678779e0e8dcc0c.jpg"
+image: "https://i.pinimg.com/originals/9e/3e/5f/9e3e5fb015d5e6c7d678779e0e8dcc0c.jpg"
 ---
 
-The experimental design PDF can be found on Google Drive at the following link (accessible to all PDSB accounts): https://drive.google.com/file/d/1PU-aGq2yGfJDjfePDdZRK0Z8wbZgU4Yu/view?usp=sharing
+The experimental design PDF can be found on Google Drive at the following link (accessible to all PDSB accounts): https://drive.google.com/file/d/1DZGF680ARMBXBzP1tZ__GN-TyKwg9a3m/view?usp=sharing
 
 ## Summary
 
