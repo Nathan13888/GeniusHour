@@ -63,7 +63,7 @@ A vibrant neon food colouring guide creating a neon blue, green, purple, and pin
 
 Chemical information for Reactive Blue 4, a dye often marketed as "Brilliant Blue".
 
-***Reactive dye.*** **Reactive Dye - an overview | ScienceDirect Topics. (n.d.).** Retrieved November 23, 2021, from https://www.sciencedirect.com/topics/engineering/reactive-dye.
+***Reactive dye.*** **Reactive Dye - an overview \| ScienceDirect Topics. (n.d.).** Retrieved November 23, 2021, from https://www.sciencedirect.com/topics/engineering/reactive-dye.
 
 Overview of reactive dyes, water treatment, and dyeing technology. Explanation of colour range, pigment, and fibers. Outline of the four parts of reactive dyes: The chromogen or the chromophoric part, the reactive system, a bridging unit, and the solubilising group(s) attached to the chromophoric grouping.
 
