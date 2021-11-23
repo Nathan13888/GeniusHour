@@ -13,7 +13,7 @@ The experimental design PDF can be found on Google Drive at the following link (
 
 ## Summary
 
-This post will not include all the information regarding experimental design, since there is a lot of information, including equations. However, a simple summary is included below. We reserve the right to alter experimental design at our sole discretion through the course of this project.)
+This post will not include all the information regarding experimental design, since there is a lot of information, including equations. However, a simple summary is included below. We reserve the right to alter experimental design at our sole discretion through the course of this project.
 
 ### Materials
 
@@ -22,14 +22,14 @@ textile | dyes | additives
 cotton | food colouring | salt
 jute | tie dye | detergent
 paper towel | disperse dye | vinegar
-bamboo
-polyurethane
-nylon
-acrylic
-polyester
-polyethylene
-wool
-silk
+bamboo | |
+polyurethane | |
+nylon | |
+acrylic | |
+polyester | |
+polyethylene | |
+wool | |
+silk | |
 
 Approximately 26 g of each textile, 16 mL of each dye, and 20 mL of each additive is required.
 
