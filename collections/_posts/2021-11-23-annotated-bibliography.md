@@ -1,17 +1,15 @@
 ---
 title: "Annotated Bibliography"
-date: 2021-11-22
+date: 2021-11-23
 layout: post
-authors: ["Max Liu"]
+authors: ["Max Liu", "Jasmine AY"]
 categories: ["Project Details"]
-description:
-thumbnail: "https://i.pinimg.com/originals/9e/3e/5f/9e3e5fb015d5e6c7d678779e0e8dcc0c.jpg"
-image: "https://i.pinimg.com/originals/9e/3e/5f/9e3e5fb015d5e6c7d678779e0e8dcc0c.jpg"
+description: List of research sources as of November 23.
+thumbnail: "https://i.pinimg.com/originals/f1/3d/2e/f13d2ea00c18c85139198806366889e0.jpg"
+image: "https://i.pinimg.com/originals/f1/3d/2e/f13d2ea00c18c85139198806366889e0.jpg"
 ---
 
-# Genius Hour Annotated Bibliography
-
-### 2021-11-23
+## Genius Hour Annotated Bibliography
 
 **Ashenhurst, J. (January 25, 2020).** ***Conjugation and Color (+ How Bleach Works).*** **Master Organic Chemistry.** https://www.masterorganicchemistry.com/2016/09/08/conjugation_and_color/
 
@@ -25,13 +23,29 @@ A detailed analysis of chemical causes of colour, including natural pigments. Ex
 
 Analysis of the chemical processes raw cotton must go through for treatment and the changes in properties for dyeing. Analysis of scouring and bleaching. Explains how acidity effects colour strength and the chemical processes of dyeing.
 
+**Hunter, C.A., & Sanders, J.K.M. (1990). The Nature of 𝜋-𝜋 Interactions.** ***Journal of the American Chemical Society, 112(14), 5525-5534.** https://doi:10.1021/ja00170a016
+
+Helpful resource regarding the orientation of pi-pi interactions and how aromatic stacking occurs. Detailed analysis of the theory behind pi stacking and how its geometry is optimized.
+
+**Jose-Yacaman, M. (October 2006). Chemical Composition of a Fountain Pen Ink.** ***Journal of Chemical Education. 83(10), 1476-1478.*** https://doi.org/10.1021/ed083p1476
+
+Exploration of black fountain pen inks -- their elemental composition, historical origins, and chemical properties. Includes composition information and chemical equations.
+
 ***Know about textile fibres - thread types &amp; applications: Coats.*** **Coats. (n.d.).** Retrieved November 23, 2021, from https://www.coats.com/en/information-hub/Know-About-Textile-Fibres.
 
 Details fibre classification, both natural and man-made. Gives specific fibre names, including vegetable, cotton, wool, pina, silk, and more. Also provides charcteristics and applications of types of fibres.
 
+**Koh, J. (2011). Dyeing of cellulosic fibres. In M. Clark (Ed.),** ***Handbook of textile and industrial dyeing (pp. 129-146).*** **Woodhead Publishing Limited.**
+
+Analysis of the properties of plant-based textiles and the kinds of dyes used to pigment them. Detailed explanation of the chemical bonding process and methods used to enhance dyeing quality.
+
 **Koh, J. (2011). Dyeing with disperse dyes.** ***Textile Dyeing.*** https://doi.org/10.5772/20458
 
 A detailed analysis of disperse dyes for dyeing secondary cellulose acetate fibres and their modern use of dying polyesters. Analysis of disperse dye classes: Anthraquinone disperse dyes, Nitroarylamino disperse dyes, Coumarin disperse dyes. Analysis of properties of dyes, especially absorption and effects of heat.
+
+**Lewis, D.M. (2011). The coloration of wool. In M. Clark (Ed.),** ***Handbook of textile and industrial dyeing (pp. 3-39).*** **Woodhead Publishing Limited.**
+
+Deep dive into the chemistry of wool (and, briefly, polyamides in general) and how this relates to its ability to take various dyes. Chemical equations, diagrams, and general explanations are included. Environmental and economical impacts are also discussed.
 
 **McCown, K. (2018, August 19).** ***Fountain Pen Ink Properties.*** **Mountain of Ink.** Retrieved November 23, 2021, from https://mountainofink.com/blog/ink-properties.
 
@@ -57,9 +71,17 @@ Overview of reactive dyes, water treatment, and dyeing technology. Explanation o
 
 Dyeing a fabric using the "sink of bucket method", a method in which a sink or large container is filled with water, ideally 140 F. Steps are detailed in the article. "To enhance the color: (1) add one cup of salt when dyeing fabrics containing cotton, rayon, ramie or linen; (2) add one cup of vinegar when dyeing fabrics containing nylon, silk or wool."
 
+**Roy-Choudhury, A.K. (2011). Dyeing of synthetic fibres. In M. Clark (Ed.),** ***Handbook of textile and industrial dyeing (pp. 40-128).*** **Woodhead Publishing Limited.**
+
+Summary of various man-made fibres and the dyes best suited to them, including polyamide (nylon 6 and nylon 6,6), polyacrylonitrile, and polyester. Dyeing processes are also explored, including both disperse dyeing and mass-colouration.
+
 **Sadeghi-Kiakhani, M., Safapour, S. (2015). Salt-free reactive dyeing of the cotton fabric modified with chitosan-poly(propylene imine) Dendrimer hybrid.** ***Fibers and Polymers***, 16(5), 1075–1081. https://doi.org/10.1007/s12221-015-1075-9
 
 "Cotton fabric was successfully modified by chitosan-poly(propylene imine) dendrimer hybrid (CS-PPI). Cationization of cotton was conformed through zeta potential test. The effects of grafting variables, CS-PPI concentration, pH, time, and temperature on grafting yield were investigated using both salt-free and conventional reactive dyeing processes. Optimal grafting parameters were found to be CS-PPI concentration of 20 % owf, pH 6, grafting reaction temperature of 50 o C, and time of 18 h. Color strength of dyed modified cotton was markedly enhanced in absence of electrolyte or alkali."
+
+***Tulip One-Step Tie Dye Kit;*** **MSDS No. 01281 [Online]; Duncan Enterprises: Fresno, CA, December 18, 2018.**
+
+Material Safety Data Sheet for the Tulip One-Step Tie Dye Kit, which we are using in our experiments. Includes information such as chemical composition, pH levels, etc.
 
 ***Using dye to make ink.*** **The Fountain Pen Network. (2021, August 24).** Retrieved November 23, 2021, from https://www.fountainpennetwork.com/forum/topic/344496-using-dye-to-make-ink/.
 
