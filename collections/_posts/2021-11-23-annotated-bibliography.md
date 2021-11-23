@@ -13,6 +13,14 @@ image: "https://i.pinimg.com/originals/9e/3e/5f/9e3e5fb015d5e6c7d678779e0e8dcc0c
 
 ### 2021-11-23
 
+**Ashenhurst, J. (January 25, 2020).** ***Conjugation and Color (+ How Bleach Works).*** **Master Organic Chemistry.** https://www.masterorganicchemistry.com/2016/09/08/conjugation_and_color/
+
+A detailed analysis of chemical causes of colour, including natural pigments. Explanation of the chemical bonds required to produce certain wavelengths and colours, including double bonds and pi bonds. An evaluation of acids and bases and their effects on dyeing and stain removal.
+
+**Damant, A.P. (2011). Food colourants. In M. Clark (Ed.),** ***Handbook of textile and industrial dyeing*** **(pp. 252-305). Woodhead Publishing Limited.**
+
+"Industrial applications of dyes are examined, with topics including dyes used in food and in the cosmetics industry". Details latest techniques used in the dyeing industry from cosmetic to medical. Covers textile applications with the dyeing of wool, synthetic and cellulosic fibres, and textile fibre blends.
+
 **Forte, P. (2011). Dyeing of environmentaly friendly pretreated cotton fabric.** ***Textile Dyeing.*** https://doi.org/10.5772/21723
 
 Analysis of the chemical processes raw cotton must go through for treatment and the changes in properties for dyeing. Analysis of scouring and bleaching. Explains how acidity effects colour strength and the chemical processes of dyeing.
