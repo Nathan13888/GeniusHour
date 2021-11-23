@@ -18,7 +18,7 @@ This post will not include all the information regarding experimental design, si
 ### Materials
 
 textile | dyes | additives
------ | ----- | ------
+---------- | ---------- | -----------
 cotton | food colouring | salt
 jute | tie dye | detergent
 paper towel | disperse dye | vinegar
