@@ -73,7 +73,7 @@ On their website, under the questions section, ClubHouse states the following re
 
 - The pink dye contains Allura Red and Erythrosine
 - The blue due contains Brilliant Blue FCF
-- The dyes contained in the bos are Allura Red (FD & C Red #40), Erythrosine (FD & C Red #3), and Tratrazine (FD & C Yellow #5)
+- The dyes contained in the bos are Allura Red (FD & C Red #40), Erythrosine (FD&C Red #3), and Tartrazine (FD&C Yellow #5)
 
 Regarding their standard Food Colouring, the following is stated:
 
@@ -94,7 +94,7 @@ Pretty much all of the math pertaining to experimental design has been completed
 
 ### Material Acquisition
 
-Lists of required materials have mostly been finalized. We have begun doing prep work with the materials currently on hand. At the moment, swatch strips have been cut from polyacrylamide, polypropylene, polyurethane, silk, and cotton. This covers the categories of synthetic, protein, and cellulose. Some personal planning must be done before cutting into polyester (another synthetic, but onethat is so prevalent among modern clothing that any "relatable" study would be remiss to exclude it), and paper towel (pulp) is still under consideration for inclusion.
+Lists of required materials have mostly been finalized. We have begun doing prep work with the materials currently on hand. At the moment, swatch strips have been cut from polyacrylonitrile, polypropylene, polyurethane, silk, and cotton. This covers the categories of synthetic, protein, and cellulose. Some personal planning must be done before cutting into polyester (another synthetic, but one that is so prevalent among modern clothing that any "relatable" study would be remiss to exclude it), and paper towel (pulp) is still under consideration for inclusion.
 
 Centralization of remaining materials, including synthetic cellulose fibers and fountain pen ink, is still in progress. However, there are concrete plans in place.
 
@@ -102,7 +102,7 @@ Centralization of remaining materials, including synthetic cellulose fibers and 
 
 We have begun creating our website, as is evident by the existence of this post. It has been set up using a static site generator called Jekyll. We are using automatic build continuous integration in order to improve information flow and organization.
 
-Discussions regarding formatting and hosting remain in progress. As we continue to roll out content to the site, it is likely tha tmany kinks will resolve themselves.
+Discussions regarding formatting and hosting remain in progress. As we continue to roll out content to the site, it is likely that many kinks will resolve themselves.
 
 ## Topic Discussion
 
