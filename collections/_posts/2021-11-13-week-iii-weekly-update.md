@@ -5,8 +5,8 @@ layout: post
 authors: ["Jasmine AY"]
 categories: ["Weekly Updates"]
 description: Progress update as of Friday November 12.
-thumbnail: "https://i.pinimg.com/originals/76/fe/94/76fe94c73156f6c2c74ccf9efd5e2786.jpg"
-image: "https://i.pinimg.com/originals/76/fe/94/76fe94c73156f6c2c74ccf9efd5e2786.jpg"
+thumbnail: "![Fabric Swatches](/GeniusHour/assets/images/IMG_5205.HEIC)"
+image: "![Fabric Swatches](/GeniusHour/assets/images/IMG_5205.HEIC)"
 ---
 
 I am counting weeks based on total Fridays passed. Also, from this point forward, I (Jasmine) will be referring to everyone in the first person plural (we).
