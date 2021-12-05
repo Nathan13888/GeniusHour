@@ -5,8 +5,8 @@ layout: post
 authors: ["Max Liu", "Jasmine AY"]
 categories: ["Project Details"]
 description: List of research sources as of November 23.
-thumbnail: "![Bibliography Excerpt](/GeniusHour/assets/images/bib.jpg)"
-image: "![Bibliography Excerpt](/GeniusHour/assets/images/bib.jpg)"
+thumbnail: "assets/images/bib.jpg"
+image: "/GeniusHour/assets/images/bib.jpg"
 ---
 
 ## Genius Hour Annotated Bibliography
