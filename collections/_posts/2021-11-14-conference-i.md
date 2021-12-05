@@ -6,7 +6,7 @@ authors: ["Alex Tang", "Jasmine AY", "Max Liu", "Nathan Chung"]
 categories: ["Conference Rundowns"]
 description: Summary of information for the first conference.
 thumbnail: "assets/images/IMG_20210914_144619401_HDR.jpg"
-image: "GeniusHour/assets/images/IMG_20210914_144619401_HDR.jpg"
+image: "/GeniusHour/assets/images/IMG_20210914_144619401_HDR.jpg"
 ---
 
 ## Defining Genius Hour
