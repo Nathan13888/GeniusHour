@@ -5,8 +5,8 @@ layout: post
 authors: ["Jasmine AY"]
 categories: ["Weekly Updates"]
 description: Progress update as of Friday November 19.
-thumbnail: "![Burlap Cutting](/GeniusHour/assets/images/IMG_20211120_154611639.jpg)"
-image: "![Burlap Cutting](/GeniusHour/assets/images/IMG_20211120_154611639.jpg)"
+thumbnail: "assets/images/IMG_20211120_154611639.jpg"
+image: "GeniusHour/assets/images/IMG_20211120_154611639.jpg"
 ---
 
 Seeing as this was an off-week for chemistry, we did not get much done. However, some foundational work was done and progress, though minor, was made on all fronts.
