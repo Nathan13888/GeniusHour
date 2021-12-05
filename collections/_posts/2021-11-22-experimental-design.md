@@ -5,8 +5,8 @@ layout: post
 authors: ["Jasmine AY"]
 categories: ["Project Details"]
 description: Outline for our "show and tell" components.
-thumbnail: "![Dye Collection](/GeniusHour/assets/images/IMG_1370.jpg)"
-image: "![Dye Collection](/GeniusHour/assets/images/IMG_1370.jpg)"
+thumbnail: "assets/images/IMG_1370.jpg"
+image: "/GeniusHour/assets/images/IMG_1370.jpg"
 ---
 
 The experimental design PDF can be found on Google Drive [here](https://drive.google.com/file/d/1DZGF680ARMBXBzP1tZ__GN-TyKwg9a3m/view?usp=sharing). This link is accessible to all PDSB accounts.
