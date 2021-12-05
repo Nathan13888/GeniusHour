@@ -5,8 +5,8 @@ layout: post
 authors: ["Jasmine AY"]
 categories: ["Project Details"]
 description: Outline for our "show and tell" components.
-thumbnail: "https://i.pinimg.com/originals/9e/3e/5f/9e3e5fb015d5e6c7d678779e0e8dcc0c.jpg"
-image: "https://i.pinimg.com/originals/9e/3e/5f/9e3e5fb015d5e6c7d678779e0e8dcc0c.jpg"
+thumbnail: "![Wooden Dye Spoon](/GeniusHour/assets/images/IMG_20210914_144619401_HDR.jpg)"
+image: "![Wooden Dye Spoon](/GeniusHour/assets/images/IMG_20210914_144619401_HDR.jpg)"
 ---
 
 The experimental design PDF can be found on Google Drive [here](https://drive.google.com/file/d/1DZGF680ARMBXBzP1tZ__GN-TyKwg9a3m/view?usp=sharing). This link is accessible to all PDSB accounts.
