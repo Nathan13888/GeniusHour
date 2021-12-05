@@ -5,8 +5,8 @@ layout: post
 authors: ["Alex Tang", "Jasmine AY", "Max Liu", "Nathan Chung"]
 categories: ["Conference Rundowns"]
 description: Summary of information for the first conference.
-thumbnail: "https://i.pinimg.com/originals/51/82/d0/5182d08b7e710deae2a23683d4400878.jpg"
-image: "https://i.pinimg.com/originals/51/82/d0/5182d08b7e710deae2a23683d4400878.jpg"
+thumbnail: "![Wooden Dye Spoon](/GeniusHour/assets/images/IMG_20210914_144619401_HDR.jpg)"
+image: "![Wooden Dye Spoon](/GeniusHour/assets/images/IMG_20210914_144619401_HDR.jpg)"
 ---
 
 ## Defining Genius Hour
