@@ -1,0 +1,50 @@
+---
+title: "Week VI | Weekly Update"
+date: 2021-12-04
+layout: post
+authors: ["Jasmine AY"]
+categories: ["Weekly Updates"]
+description: Progress update as of Friday December 3.
+thumbnail: "https://i.pinimg.com/originals/7d/d7/e7/7dd7e74a693a4dec118959922f853a8a.jpg"
+image: "https://i.pinimg.com/originals/7d/d7/e7/7dd7e74a693a4dec118959922f853a8a.jpg"
+---
+
+Much of this week's progress comprises intermediate steps -- recording bits of video, writing a little script, organizing lines of research, reformatting documents -- things which are so small as to be immeasurable, but also of immeasureable importance. While there is still plenty of content that can be added to this specific post, the fruits of this week's labour will primarily be pushed out over the coming week as they are published to the site. It was also an off-week for chemistry, inevitably meaning that a non-optimal amount of work was completed.
+
+That said, let's get on with the update proper.
+
+## Film Content
+
+Pretty much all of the video content has been filmed, although voiceover work and headshots will need to be done in the coming days. B-roll for experiment footage including a burn test, calligraphy, the dyeing proper, and post-experiment analysis has been completed. These videos will not be uploaded here since well over 15 hours was spent filming -- there is a *lot* of video content, far more than is necessary for any audience to ever see.
+
+Analysis footage has also been taken, discussing the properties of each sample and providing a closer look. In all likelihood, not all of this will make it into the final video, since in-depth discussion of 350+ subjects is not possible within the allocated timespan. However, a number of patterns surfaced quite clearly, which we *can* discuss as part of the purview of this project. Much of this footage will thus likely become useful b-roll to improve audience engagement for our video.
+
+We have also started work on outlining and scripting the video. This should be done in the next couple of days, at which point our focus will turn to recording any necessary additional content and assembling the video proper.
+
+## Experiment
+
+On that note, the experiment was completed early this week. Over 350 samples of fabric were dyed in 32 different dye baths, each boasting different chemical properties. Footage was taken throughout, and will be edited into our final video.
+
+Data entry still needs to be completed (prospective date of completion is before the end of the weekend); some photography must be done before this point. Furthermore, there are some post-mortem write-ups in progress -- these should, likewise, be live before the end of the weekend. Additional math, community-based evidence, and conclusions will be discussed. A revised experimental design document (based on alternations made when performing the experiment) is also in the works, and will be posted to the blog in the near future. As a result, I will not expound on experimental details here so as to not clog up the post.
+
+## Sample Gallery
+
+We are working on adding a gallery to the website where we will upload images of all 350+ dyed fabric samples, as well as some behind-the-scenes shots. Most of these photos were taken this past week, but some are still very slowly being uploaded due to technological barriers. This will help to demonstrate our results with more clarity.
+
+Image collages are also in progress, to provide clear comparisons between certain samples.
+
+## Final Product
+
+While we have a copious amount of dyed samples, our group also wanted to provide a more engaging example of dyeing. Bearing in mind the constraints of the science classroom, there are still some kinks to be worked out, but we will be producing a "secret pattern" hat. When dipped in a dye bath, the originally white hat will dye in some places in order to reveal a stranded colourwork pattern.
+
+After some discussion, it was concluded that the best way to showcase this would be through a pattern which requires minimal contrast in yarn colour, while still having a powerful effect. In order to achieve this, the hat will be use a graphic pattern, per the advice of knitwear designer Karen Butler (this is not my area of expertise, nor is there scientific literature available in this purview). She also suggested using a repetitive pattern with minimal detail so that the colours occur in chunks. Furthermore, the darker colour will be treated as MC. (I confess to not being well-read on the topic of colour theory/optics, but given the general concept of "light colours advance and dark colours recede", it stands to reason that pushing light colours forwards will create greater contrast. However, upon preliminary research, it appears that there is significant debate regarding whether dark recedes or light does, as well as if dark mode is easier to read than light mode. It seems, therefore, that there is no universal answer to which colour orientation will create greater "pop" effect. My personal experience leads me to prefer light-on-dark, but I have not found conclusive scientific evidence to support this.) This in mind, I decided to use a hat pattern I just finished test knitting for -- it features solid hearts (large swatch of colour), an argyle-type pattern (repetitive), and some bits of detailing in the criss-crossing (allows us to see how the colour reacts in stickier situations). Also, the brim can be knit in half-and-half MC/CC, which allows for stripe banding (this tends to show off contrast extremely well).
+
+The hat knitting is currently in progress -- it has not progressed past the brim yet, but should be completed in time for Conference 3/4. It is made from worsted weight yarns in polyacrylinitrile and wool. Both yarns are an aran colour -- they are quite similar in shade, although there are obviously some differences courtesy of the fact that they simply are not exactly the same (and were not made for the purposes of chemistry experiments). Consequently, either acid or reactive dyes may be used in our demonstration. Based on predicted uptake, this means that the wool will be held as MC and the acrylic as CC.
+
+Whether the dyeing will be performed in person or over video is yet to be determined -- discussion must be had regarding equipment accessibility in school and presentation strcture.
+
+On the note of additional dyeing, an effort was made to exhaust the dye baths on other stash fibres. If time permits, demonstrations -- for example, some wool skeins are clear examples of strike rates -- may be performed with these as well.
+
+## Website
+
+Some small formatting updates have been done, including edits for grammatical clarity, addition of images, and correction of image quality issues.
