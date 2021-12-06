@@ -10,8 +10,11 @@ image: "/GeniusHour/assets/images/IMG_1551.JPG"
 ---
 
 >*The best laid plans of mice and men*
+>
 >*Often go awry,*
+>
 >*And leave us naught but grief and pain,*
+>
 >*For promised joy.*
 
 It is said that no battle plan survives first contact with the enemy.
