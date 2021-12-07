@@ -135,64 +135,64 @@ I will make note of the type, opacity (see-through-ness), weight (light-, medium
 
 Worsted weight wool yarn was used in this experiment. Each piece was cut to about 24” long, then doubled back on itself twice to form a piece 6” long.
 
-Type: protein
-Opacity: opaque
-Weight: medium
-Hand: medium
-Color: aran
-Other: 3-ply
+Type: protein  
+Opacity: opaque  
+Weight: medium  
+Hand: medium  
+Color: aran  
+Other: 3-ply  
 
 #### Silk
 
 Silk curtain yardage was used in this experiment. Each piece was cut to about 1” by 6”.
 
-Type: protein
-Opacity: opaque
-Weight: light
-Hand: flowy
-Color: light brown
-Other: slub weave
+Type: protein  
+Opacity: opaque  
+Weight: light  
+Hand: flowy  
+Color: light brown  
+Other: slub weave  
 
 #### Cotton
 
 Some sort of plain weave cotton yardage was used in this experiment. Each piece was cut to about 1” by 6”.
 
-Type: cellulose
-Opacity: opaque
-Weight: medium
-Hand: stiff
-Color: beige
-Other: tight weave
+Type: cellulose  
+Opacity: opaque  
+Weight: medium  
+Hand: stiff  
+Color: beige  
+Other: tight weave  
 
 #### Jute 
 
 Burlap yardage was used in this experiment. Each piece was cut to about 1” by 6”.
 
-Type: cellulose
-Opacity: opaque
-Weight: medium
-Hand: stiff
-Color: brown
-Other: extremely loose weave
+Type: cellulose  
+Opacity: opaque  
+Weight: medium  
+Hand: stiff  
+Color: brown  
+Other: extremely loose weave  
 
 #### Paper Towel
 
 2-ply paper towel was used in this experiment. Each piece was cut to about 1” by 6”.
 
-Type: pulp
-Opacity: opaque
-Weight: light
-Hand: stiff
-Color: white
-Other: textured surface, tear-prone, dries stiff
+Type: pulp  
+Opacity: opaque  
+Weight: light  
+Hand: stiff  
+Color: white  
+Other: textured surface, tear-prone, dries stiff  
 
 #### Bamboo
 
 DK weight bamboo yarn was used in this experiment. Each piece was cut to about 24” long, then doubled back on itself twice to form a piece 6” long.
 
-Type: regenerated synthetic cellulose
-Opacity: opaque
-Weight: light
+Type: regenerated synthetic cellulose  
+Opacity: opaque  
+Weight: light  
 Hand: flowy
 Color: white
 Other: splitty, cable-ply
@@ -201,55 +201,55 @@ Other: splitty, cable-ply
 
 Pink chiffon fabric yardage was used in this experiment. The selvedge was used to conserve material. Each piece was cut to about 1” by 6”.
 
-Type: synthetic
-Opacity: translucent
-Weight: light
-Hand: flowy
-Color: peach pink
-Other: smooth matte finish
+Type: synthetic  
+Opacity: translucent  
+Weight: light  
+Hand: flowy  
+Color: peach pink  
+Other: smooth matte finish  
 
 #### Polyurethane
 
 Faux leather fabric yardage was used in this experiment. It has a 100% polyurethane front and a 100% polyester backing. Each piece was cut to about 1” by 6”.
 
-Type: synthetic
-Opacity: opaque
-Weight: heavy
-Hand: stiff
-Color: white
-Other: scale texture on right side
+Type: synthetic  
+Opacity: opaque  
+Weight: heavy  
+Hand: stiff  
+Color: white  
+Other: scale texture on right side  
 
 #### Polyethylene
 
 Polyethylene fabric yardage was used in this experiment. Each piece was cut to about 1” by 6”.
 
-Type: synthetic
-Opacity: slightly translucent
-Weight: light
-Hand: medium
-Color: white
-Other: slight dappled texture
+Type: synthetic  
+Opacity: slightly translucent  
+Weight: light  
+Hand: medium  
+Color: white  
+Other: slight dappled texture  
 
 #### Polyacrylonitrile
 
 Worsted weight acrylic yarn was used in this experiment. Each piece was cut to about 24” long, then doubled back on itself twice to form a piece 6” long.
 
-Type: synthetic
-Opacity: opaque
-Weight: medium
-Hand: stiff
-Color: white
-Other: 4-ply
+Type: synthetic  
+Opacity: opaque  
+Weight: medium  
+Hand: stiff  
+Color: white  
+Other: 4-ply  
 
 #### Polyamide
 
 1” wide nylon organza ribbon was used in this experiment. Each piece was cut to about 6” long.
 
-Type: synthetic
-Opacity: translucent
-Weight: light
-Hand: stiff
-Color: white
-Other: wiry edges
+Type: synthetic  
+Opacity: translucent  
+Weight: light  
+Hand: stiff  
+Color: white  
+Other: wiry edges  
 
 Again, full PDF can be found [here](https://drive.google.com/file/d/1NWOqqXqVb8PQJOjicIENk1CoqcwrTcM8/view?usp=sharing)!
