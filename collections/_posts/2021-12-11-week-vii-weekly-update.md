@@ -1,0 +1,56 @@
+---
+title: "Week VII | Weekly Update"
+date: 2021-12-11
+layout: post
+authors: ["Jasmine AY"]
+categories: ["Weekly Updates"]
+description: Progress update as of Friday December 10.
+thumbnail: "assets/images/VID_20211208_113537783_Moment-01.jpeg"
+image: "/GeniusHour/assets/images/VID_20211208_113537783_Moment-01.jpeg"
+---
+
+Sorry about the messy nature of this update (*nota bene: hic sunt lupi*). Between text anxiety, the fact that I wasn't expecting to write this post (i.e. the extension made this update necessary), and my health being in disarray (I currently have a headache, the brain fog is having a field day, etc.), I can admit that this is not me at 100%. I've done my best to cover everything and use consistent writing style, but I definitely acknowledge that there may be bits of content missing. I will update this post in future if anything glaringly obvious comes to mind.
+
+(It's also just that a lot of stuff for this week regards things in progress that don't make sense to post until they're done. As a result, the writing ends up being very hand-wave-y and abstract.)
+
+## Rekindling Hat
+
+I managed to wrangle stress-knitting and dyeing the demonstration hat this week. Given the extra time we have, there's potential for another sample to be made for an in-person demonstration, but that will likely end up being something like a tapestry crochet coaster to make it more practical. (I would prefer for it to be able to fit flat against the base of a glass beaker.)
+
+I'm not going to get super detailed with the technical stuff here, since a lot of it is textile art related as opposed to chemistry related. To go over the high points, the hat was knit on 4.0 and 5.0 mm needles (24" circulars for the body, and magic loop on 56" for the crown); yarn was Patons Canadiana and Classic Wool Worsted in Aran (Classic Wool Worsted was held as MC); stranded colourwork was knit using two-hand method (Canadiana held dominant); and dyeing was performed with Wilton Icing Colours over high heat with the addition of vinegar. The pattern is the Rekindling Hat by Victoria Marchant, and is knit to gauge in size Adult. No modifications other than halving the depth of the brim to remove the double-fold. I threw together a 15-minute director's cut of the process, which doesn't have any voiceover or chemistry content, but which shows the entirety of the creation process. You can find that [here](https://youtu.be/7xaW4bBOjN0) (on my art account, since we are no longer allowed to upload videos on school accounts). A cut and voiceovered version will be included in our final presentation, likely in a meta context. A more chemistry-geared full-cut might be uploaded at some point, but some small edits need to be made before that can happen.
+
+Resources are included in the description box there, but I'm also going to list them here:
+
+- Rekindling Hat Pattern - Victoria Marchant Knits // https://www.victoriamarchantknits.com/pattern/rekindling/
+- Canadiana - Patons // https://www.yarnspirations.com/ca-en/patons-canadiana-yarn/244510.html
+- Classic Wool Worsted - Patons // https://www.yarnspirations.com/ca-en/patons-classic-wool-worsted-yarn/244077.html
+- Icing Colours - Wilton // https://www.wilton.com/icing-colors-12-color-set/601-5580.html
+
+Music:
+
+- Reflections - Borrtex // https://youtu.be/vDj6o7dC2OA
+- Progressive Progress - Howard Harper-Barnes // https://youtu.be/EFPQmjHErFs
+- Spring Morning (Scaled-Down Version) - Peter Sandberg // https://youtu.be/Z7YkHxOTS0I
+- Secrets of the Earth - Lama House // https://youtu.be/5vvH2vxFR4Q
+- If You Were Still Here - Gavin Luke // https://youtu.be/-u0M6kvrgXY
+- Impressions of You - Gavin Luke // https://youtu.be/k9X3GkGob9Q
+- Valse pour le premier jour du printemps - Biba Dupont // https://youtu.be/bNB-tnsKJqo
+- Little Hero - Aleksey Chistilin // https://youtu.be/DBGnSZbglp8
+
+(I'd *like* to get a reflection on some extra chemistry content done for this... but given the chaos of everything, I can't guarantee that.)
+
+## Website
+
+Some website overhaul is in progress to make it more easily navigable, as well as to ensure that important information is presented front and centre. We are looking to add some pages to increase the focus on learning content so that not everyone has to read all of these progress entries. The blog will probably get shifted off the homepage, some others will be added to the hamburger menu, and then the homepage will get a full makeover.
+
+This is really not my area of expertise -- I consider myself passable at technology, but I certainly wouldn't trust myself with explaining the whole back-end of running this website, or reviewing proper strategies for the whole redesign process. So, since this is not a CS project, I'm going to leave this here -- the better to _not_ misinform anyone.
+
+## Final Video
+
+The final video has been scripted and filmed. It is in the process of being edited at the moment -- most of the footage has been reviewed and given preliminary editing -- and we hope to have that up in the near future. There's not too much to expand on here -- we've decided on a vaguely comedic murder mystery theme (because one can only resist the dy(e)ing puns for so long), and are currently working hard on integrating some levity into what can occasionally veer into lecture-adjacent territory. A lot of decisions have been made regarding overarching theme and style in the past week; despite knowing what we were doing, the how is not always clear, especially given that communication can be a struggle when trying to bridge the in-person/online gap. (I, for one, tend to edit with a combination of snarky scripting and soarding orchestral music. That's the kind of footage I tend to film, too. That is not, however, the way that everyone else edits.) In any case, that's all been sorted out and it should be smooth sailing ahead.
+
+## Miscellaneous
+
+A couple write-ups are still in progress (e.g. experiment post-mortem, lab report, etc.). Currently, I need to work up some more consistent structural diagrams, reformat some stuff, and get a couple of further citations properly formatted. I am debating the merits of doing some post-photography touch ups to the sample pictures (leaning towards not doing it, but adding some white balance might be helpful; we'll see). Extra experiments might be conducted to ensure a smoother in-class demo -- we will see if my body can put up with that.
+
+I'm going to wrap this post here, since there are a lot of other things to get done right now.
