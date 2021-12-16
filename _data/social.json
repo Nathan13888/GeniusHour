@@ -1,7 +1,22 @@
 [
   {
+    "name": "Home",
+    "link": "/GeniusHour/",
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4Igp3aWR0aD0iNTAiIGhlaWdodD0iNTAiCnZpZXdCb3g9IjAgMCA1MCA1MCIKc3R5bGU9IiBmaWxsOiMwMDAwMDA7Ij4gICAgPHBhdGggZD0iTSAyNSAxLjA1MDc4MTIgQyAyNC43ODI1IDEuMDUwNzgxMiAyNC41NjU4NTkgMS4xMTk3NjU2IDI0LjM4MDg1OSAxLjI1OTc2NTYgTCAxLjM4MDg1OTQgMTkuMjEwOTM4IEMgMC45NTA4NTkzOCAxOS41NTA5MzggMC44NzA5Mzc1IDIwLjE3OTE0MSAxLjIxMDkzNzUgMjAuNjE5MTQxIEMgMS41NTA5Mzc1IDIxLjA0OTE0MSAyLjE3OTE0MDYgMjEuMTI5MDYyIDIuNjE5MTQwNiAyMC43ODkwNjIgTCA0IDE5LjcxMDkzOCBMIDQgNDYgQyA0IDQ2LjU1IDQuNDUgNDcgNSA0NyBMIDE5IDQ3IEwgMTkgMjkgTCAzMSAyOSBMIDMxIDQ3IEwgNDUgNDcgQyA0NS41NSA0NyA0NiA0Ni41NSA0NiA0NiBMIDQ2IDE5LjcxMDkzOCBMIDQ3LjM4MDg1OSAyMC43ODkwNjIgQyA0Ny41NzA4NTkgMjAuOTI5MDYzIDQ3Ljc4IDIxIDQ4IDIxIEMgNDguMyAyMSA0OC41ODkwNjMgMjAuODY5MTQxIDQ4Ljc4OTA2MiAyMC42MTkxNDEgQyA0OS4xMjkwNjMgMjAuMTc5MTQxIDQ5LjA0OTE0MSAxOS41NTA5MzggNDguNjE5MTQxIDE5LjIxMDkzOCBMIDI1LjYxOTE0MSAxLjI1OTc2NTYgQyAyNS40MzQxNDEgMS4xMTk3NjU2IDI1LjIxNzUgMS4wNTA3ODEyIDI1IDEuMDUwNzgxMiB6IE0gMzUgNSBMIDM1IDYuMDUwNzgxMiBMIDQxIDEwLjczMDQ2OSBMIDQxIDUgTCAzNSA1IHoiPjwvcGF0aD48L3N2Zz4="
+  },
+  {
+    "name": "Gallery",
+    "link": "/GeniusHour/gallery",
+    "image": "https://img.icons8.com/fluency-systems-filled/96/000000/gallery.png"
+  },
+  {
     "name": "Github",
     "link": "https://github.com/Nathan13888/GeniusHour",
     "image": "https://simpleicons.org/icons/github.svg"
+  },
+  {
+    "name": "Youtube",
+    "link": "https://example.com/coming-soon",
+    "image": "https://simpleicons.org/icons/youtube.svg"
   }
 ]
