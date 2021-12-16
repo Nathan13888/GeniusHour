@@ -5,8 +5,8 @@ layout: post
 authors: ["Jasmine AY"]
 categories: ["Project Details"]
 description: Final meta videos for the hat process.
-thumbnail: "assets/images/thumbnail.png"
-image: "/GeniusHour/assets/images/thumbnail.png"
+thumbnail: "assets/images/resize.png"
+image: "/GeniusHour/assets/images/resize.png"
 ---
 
 I'm going to keep this short and sweet, since I have a couple of write ups that are going to get posted in the next few hours. Realistically, this post is just going to comprise some links to YouTube videos and some notes on them.
