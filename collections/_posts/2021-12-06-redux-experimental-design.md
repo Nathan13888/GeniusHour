@@ -23,7 +23,7 @@ This isn’t a bad thing. Because I don’t think it’s so much about an inabil
 
 Failing to plan is planning to fail, but refusing to ever change the plan? That’s shooting yourself in the foot.
 
-It should come as no surprise, then, that the original experimental design document – posted before I started working through the experiment – is not 100% reflective of what ended up happening. Adjustments were made along the way. The following is an overview of the changes I made and why, and a PDF containing a revised experiment procedure can be found [here](https://drive.google.com/file/d/1oWzcSQVJdO0K7FSIWbDjZ6_O5nxLl9ci/view?usp=sharing).
+It should come as no surprise, then, that the original experimental design document – posted before I started working through the experiment – is not 100% reflective of what ended up happening. Adjustments were made along the way. The following is an overview of the changes I made and why, and a PDF containing a revised experiment procedure can be found [ERRATA 2021.12.16: 1.25 mL food colouring should be added to each dyebath] [here](https://drive.google.com/file/d/1oWzcSQVJdO0K7FSIWbDjZ6_O5nxLl9ci/view?usp=sharing).
 
 ## Dye Concentration
 
