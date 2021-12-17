@@ -1,5 +1,5 @@
 ---
-title: "Material Data Sheet | Project Details"
+title: "Material Data Sheet"
 date: 2021-12-07
 layout: post
 authors: ["Jasmine AY"]
