@@ -1,5 +1,5 @@
 ---
-title: "Conference I | Conference Rundown"
+title: "Conference I"
 date: 2021-11-14
 layout: post
 authors: ["Alex Tang", "Jasmine AY", "Max Liu", "Nathan Chung"]
