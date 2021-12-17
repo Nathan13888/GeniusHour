@@ -1,10 +1,10 @@
 ---
-title: "(Redux) Experimental Design | Project Details"
+title: "(Redux) Experimental Design"
 date: 2021-12-06
 layout: post
 authors: ["Jasmine AY"]
 categories: ["Project Details"]
-description: Updated experimental design to reflect procedural changes.
+description: Updated experimental design.
 thumbnail: "assets/images/IMG_1551.JPG"
 image: "/GeniusHour/assets/images/IMG_1551.JPG"
 ---

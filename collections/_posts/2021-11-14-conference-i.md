@@ -1,10 +1,10 @@
 ---
-title: "Conference I | Conference Rundown"
+title: "Conference I"
 date: 2021-11-14
 layout: post
 authors: ["Alex Tang", "Jasmine AY", "Max Liu", "Nathan Chung"]
 categories: ["Conference Rundowns"]
-description: Summary of information for the first conference.
+description: Notes for the first conference.
 thumbnail: "assets/images/IMG_20210914_144619401_HDR.jpg"
 image: "/GeniusHour/assets/images/IMG_20210914_144619401_HDR.jpg"
 ---
