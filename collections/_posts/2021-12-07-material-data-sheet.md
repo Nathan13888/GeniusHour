@@ -6,7 +6,7 @@ authors: ["Jasmine AY"]
 categories: ["Project Details"]
 description: Basic information for dye sample experiments.
 thumbnail: "assets/images/IMG_3405.JPG"
-image: "/GeniusHour/assets/images/IMG_3405.JPG"
+image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_3405.JPG"
 ---
 
 This was a content-heavy piece, containing a significant amount of text and images, so it can be found in PDF form [here](https://drive.google.com/file/d/1NWOqqXqVb8PQJOjicIENk1CoqcwrTcM8/view?usp=sharing). This version has some information condensed and the images have been removed.

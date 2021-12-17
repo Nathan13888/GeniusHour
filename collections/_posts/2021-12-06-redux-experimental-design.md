@@ -6,7 +6,7 @@ authors: ["Jasmine AY"]
 categories: ["Project Details"]
 description: Updated experimental design.
 thumbnail: "assets/images/IMG_1551.JPG"
-image: "/GeniusHour/assets/images/IMG_1551.JPG"
+image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_1551.JPG"
 ---
 
 >*The best laid plans of mice and men*
