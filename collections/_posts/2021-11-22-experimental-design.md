@@ -1,5 +1,5 @@
 ---
-title: "Experimental Design | Project Details"
+title: "Experimental Design"
 date: 2021-11-22
 layout: post
 authors: ["Jasmine AY"]
