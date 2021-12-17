@@ -3,7 +3,8 @@
 {% assign align = include.align %}
 {% assign date = include.date %}
 
-<div class="py-6 md:py-12 lg:w-10/12 {% if align == 'center' %}md:text-center mx-auto{% endif %}">
+<!-- <div class="py-6 md:py-12 lg:w-10/12 {% if align == 'center' %}md:text-center mx-auto{% endif %}"> -->
+<div>
   {% if date %}
   <div class="font-medium text-gray-700">{{ date | date_to_long_string }}</div>
   {% endif %}
@@ -11,7 +12,7 @@
     {{ heading }}
   </h1> -->
 
-  {% if description %}
+  <!-- {% if description %}
   <h2 class="text-xl text-gray-600 mt-2">{{ description }}</h2>
-  {% endif %}
+  {% endif %} -->
 </div>
