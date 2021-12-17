@@ -17,10 +17,10 @@ logo:
   logo_desktop_text: "How They Dyed"
   logo_mobile_image: assets/images/logo/logo.svg
   logo_mobile_text: ""
-  logo_desktop_height: "32px"
-  logo_desktop_width: "32px"
-  logo_mobile_height: "32px"
-  logo_mobile_width: "32px"
+  logo_desktop_height: "48px"
+  logo_desktop_width: "48px"
+  logo_mobile_height: "48px"
+  logo_mobile_width: "48px"
 
 #seo:
 
