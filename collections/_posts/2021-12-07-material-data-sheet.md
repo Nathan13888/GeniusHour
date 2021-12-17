@@ -4,7 +4,7 @@ date: 2021-12-07
 layout: post
 authors: ["Jasmine AY"]
 categories: ["Project Details"]
-description: Basic material information for dye sample experiments.
+description: Basic information for dye sample experiments.
 thumbnail: "assets/images/IMG_3405.JPG"
 image: "/GeniusHour/assets/images/IMG_3405.JPG"
 ---
