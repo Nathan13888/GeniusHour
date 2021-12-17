@@ -1,5 +1,5 @@
 ---
-title: "Hat Videos | Project Details"
+title: "Hat Videos"
 date: 2021-12-15
 layout: post
 authors: ["Jasmine AY"]
