@@ -15,7 +15,7 @@ layout: default
   <div id="links" class="hidden">
     {% for item in site.data.carousel %}
     <a href="https://github.com/Nathan13888/GeniusHour/raw/master/{{ item.src }}" title="{{item.title}} ">
-      <img loading="lazy" width="75" height="75" src="https://github.com/Nathan13888/GeniusHour/raw/master/{{ item.src }}" alt="{{ item.title }} " />
+      <img loading="lazy" src="https://github.com/Nathan13888/GeniusHour/raw/master/{{ item.src }}" alt="{{ item.title }} " />
     </a>
     {{item.link}}
     {% endfor %}
@@ -33,29 +33,56 @@ layout: default
 
   <script src="{{ '/assets/blueimp-gallery/js/blueimp-gallery.min.js' | relative_url }}"></script>
   <script>
-    blueimp.Gallery(document.getElementById('links').getElementsByTagName('a'), {
+    var gallery = blueimp.Gallery([
+      {
+        title: 'Hand-knitted Hat Experiment and Explanation',
+        type: 'text/html',
+        href: 'https://www.youtube.com/watch?v=VKyVxNapFOY',
+        youtube: 'VKyVxNapFOY',
+        poster: 'https://img.youtube.com/vi/VKyVxNapFOY/maxresdefault.jpg',
+        preload: 'auto',
+      },
+      {
+        title: 'Hat Knitting Process',
+        type: 'text/html',
+        href: 'https://www.youtube.com/watch?v=7xaW4bBOjN0',
+        youtube: '7xaW4bBOjN0',
+        poster: 'https://img.youtube.com/vi/7xaW4bBOjN0/maxresdefault.jpg',
+        preload: 'auto',
+      },
+    ], {
       container: '#blueimp-gallery-carousel',
-      carousel: true
+      carousel: true,
+      // carouselle
+      hidePageScrollbars: false,
+      toggleControlsOnEnter: false,
+      toggleSlideshowOnSpace: false,
+      enableKeyboardNavigation: false,
+      closeOnEscape: false,
+      closeOnSlideClick: false,
+      closeOnSwipeUpOrDown: false,
+      closeOnHashChange: false,
+      disableScroll: false,
+      startSlideshow: true,
+      // youtube
+      youTubeVideoIdProperty: 'youtube',
+      // https://developers.google.com/youtube/player_parameters
+      youTubePlayerVars: undefined,
+      // Require a click on the native YouTube player for the initial playback:
+      youTubeClickToPlay: true,
     })
+    gallery.add(document.getElementById('links').getElementsByTagName('a'))
+    gallery.play(2000)
   </script>
   <script>
     document.getElementById('links').onclick = function (event) {
       event = event || window.event
       var target = event.target || event.srcElement
       var link = target.src ? target.parentNode : target
-      // var carouselOptions = {
-      //   hidePageScrollbars: false,
-      //   toggleControlsOnEnter: false,
-      //   toggleSlideshowOnSpace: false,
-      //   enableKeyboardNavigation: false,
-      //   closeOnEscape: false,
-      //   closeOnSlideClick: false,
-      //   closeOnSwipeUpOrDown: false,
-      //   closeOnHashChange: false,
-      //   disableScroll: false,
-      //   startSlideshow: true
-      // }
-      var options = { index: link, event: event }
+      var options = {
+        index: link,
+        event: event,
+      }
       var links = this.getElementsByTagName('a')
       blueimp.Gallery(links, options)
     }
