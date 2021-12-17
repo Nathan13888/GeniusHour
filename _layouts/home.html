@@ -16,8 +16,8 @@ layout: default
 
   <div id="links" class="hidden">
     {% for item in site.data.carousel %}
-    <a href="{{ item.src | relative_url }}" title="{{item.title}} ">
-      <img loading="lazy" width="75" height="75" src="{{ item.src | relative_url }}" alt="{{ item.title }} " />
+    <a href="https://github.com/Nathan13888/GeniusHour/raw/master/{{ item.src }}" title="{{item.title}} ">
+      <img loading="lazy" width="75" height="75" src="https://github.com/Nathan13888/GeniusHour/raw/master/{{ item.src }}" alt="{{ item.title }} " />
     </a>
     {{item.link}}
     {% endfor %}

@@ -29,7 +29,7 @@
       <ul class="flex flex-col mt-4 md:flex-row md:space-x-8 md:mt-0 md:text-lg md:font-medium">
         {% for item in site.data.menu.main %}
         <li>
-          <a href="{{ item.url | replace: 'BASEURL', site.baseurl | replace: '//', '/' }}" class="block py-2 pl-1 pr-1 text-blue-700 border-b border-blue-100 hover:bg-blue-50 md:hover:bg-transparent md:border-0 md:hover:text-purple-700 md:p-0 dark:text-blue-400 md:dark:hover:text-white dark:hover:bg-blue-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-blue-700" aria-current="page">{{ item.name }}</a>
+          <a target="_blank" href="{{ item.url | replace: 'BASEURL', site.baseurl | replace: '//', '/' }}" class="block py-2 pl-1 pr-1 text-blue-700 border-b border-blue-100 hover:bg-blue-50 md:hover:bg-transparent md:border-0 md:hover:text-purple-700 md:p-0 dark:text-blue-400 md:dark:hover:text-white dark:hover:bg-blue-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-blue-700" aria-current="page">{{ item.name }}</a>
         </li>
         {% endfor %}
       </ul>
