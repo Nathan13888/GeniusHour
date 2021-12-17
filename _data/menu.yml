@@ -1,13 +1,13 @@
 main:
-  - name: "Home"
-    url: "/"
+  - name: "Report"
+    url: "BASEURL/assets/report.pdf"
     weight: 1
-  - name: "Video"
-    url: "https://example.icon/coming-soon"
+  - name: "Gallery"
+    url: "BASEURL/gallery"
     weight: 2
-  - name: "Blogs"
-    url: "/blog/"
+  - name: "Google Drive"
+    url: "https://drive.google.com/drive/folders/1tMdN1I9MV_sfzvuXi5_gYrrJhWl475pv?usp=sharing"
     weight: 3
-  - name: "Categories"
-    url: "/categories"
+  - name: "Github"
+    url: "https://github.com/Nathan13888/GeniusHour"
     weight: 4

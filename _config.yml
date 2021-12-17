@@ -72,3 +72,4 @@ exclude:
   - netlify.toml
   - start.sh
   - carousel.sh
+  - gallery.sh

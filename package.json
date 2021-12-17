@@ -7,6 +7,7 @@
     "build-gh": "JEKYLL_ENV=production jekyll build -b /GeniusHour",
     "git-delete-untracked": "git clean -xdf -e _site -e node_modules",
     "update-carousel": "./carousel.sh|sed 's/null/\"\"/'>_data/carousel.json",
+    "update-gallery": "./gallery.sh>_data/gallery.json",
     "start": "bash start.sh"
   },
   "dependencies": {

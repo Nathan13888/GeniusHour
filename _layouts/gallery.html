@@ -7,6 +7,8 @@ body_classes: page-gallery
 {% include heading.html heading=page.heading %}
 
 <main>
+    <h1 class="text-2xl font-bold leading-7 text-gray-900 sm:text-3xl sm:truncate">Gallery</h1>
+    <hr>
     <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls" aria-label="image gallery" aria-modal="true" role="dialog">
         <div class="slides" aria-live="polite"></div>
         <h3 class="title"></h3>
@@ -17,10 +19,10 @@ body_classes: page-gallery
         <ol class="indicator"></ol>
     </div>
 
-    <div id="links" class="">
+    <div id="links" class="container grid md:grid-cols-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-2 mx-auto">
         {% for item in site.data.gallery %}
-        <a href="{{ item.src | relative_url }}" title="{{item.title}} ">
-            <img loading="lazy" height="150px" width="150px" src="{{ item.src | relative_url }}" alt="{{ item.title }} " />
+        <a href="{{ item.src | relative_url }}" title="{{item.title}}">
+            <img loading="lazy" height="250px" weight="250px" class="rounded" src="{{ item.src | relative_url }}" alt="{{ item.title }} " />
         </a>
         {{item.link}}
         {% endfor %}
