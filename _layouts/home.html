@@ -4,10 +4,57 @@ layout: default
 
 {% include heading.html heading=page.heading %}
 
-<main class="py-6">
+<main class="">
+  <div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-controls" aria-label="image carousel">
+    <div class="slides" aria-live="off"></div>
+    <h3 class="title"></h3>
+    <a class="prev" aria-controls="blueimp-gallery-carousel" aria-label="previous slide"></a>
+    <a class="next" aria-controls="blueimp-gallery-carousel" aria-label="next slide"></a>
+    <a class="play-pause" aria-controls="blueimp-gallery-carousel" aria-label="play slideshow" aria-pressed="true" role="button"></a>
+    <ol class="indicator"></ol>
+  </div>
+
+  <div id="links" class="hidden">
+    {% for item in site.data.carousel %}
+    <a href="{{ item.src | relative_url }}" title="{{item.title}} ">
+      <img loading="lazy" width="75" height="75" src="{{ item.src | relative_url }}" alt="{{ item.title }} " />
+    </a>
+    {{item.link}}
+    {% endfor %}
+  </div>
+
   {% for post in site.posts %}
   <div class="mb-12">
     {% include summary.html post=post %}
   </div>
   {% endfor %}
+  <script src="{{ '/assets/blueimp-gallery/js/blueimp-gallery.min.js' | relative_url }}"></script>
+  <script>
+    blueimp.Gallery(document.getElementById('links').getElementsByTagName('a'), {
+      container: '#blueimp-gallery-carousel',
+      carousel: true
+    })
+  </script>
+  <script>
+    document.getElementById('links').onclick = function (event) {
+      event = event || window.event
+      var target = event.target || event.srcElement
+      var link = target.src ? target.parentNode : target
+      // var carouselOptions = {
+      //   hidePageScrollbars: false,
+      //   toggleControlsOnEnter: false,
+      //   toggleSlideshowOnSpace: false,
+      //   enableKeyboardNavigation: false,
+      //   closeOnEscape: false,
+      //   closeOnSlideClick: false,
+      //   closeOnSwipeUpOrDown: false,
+      //   closeOnHashChange: false,
+      //   disableScroll: false,
+      //   startSlideshow: true
+      // }
+      var options = { index: link, event: event }
+      var links = this.getElementsByTagName('a')
+      blueimp.Gallery(links, options)
+    }
+  </script>
 </main>
