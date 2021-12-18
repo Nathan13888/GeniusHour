@@ -5,7 +5,7 @@ layout: post
 authors: ["Alex Tang", "Jasmine AY", "Max Liu", "Nathan Chung"]
 categories: ["Conference Rundowns"]
 description: Notes for the first conference.
-thumbnail: "assets/images/IMG_20210914_144619401_HDR.jpg"
+thumbnail: https://media.githubusercontent.com/media/Nathan13888/GeniusHour/master/assets/images/IMG_20210914_144619401_HDR.jpg"
 image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_20210914_144619401_HDR.jpg"
 ---
 

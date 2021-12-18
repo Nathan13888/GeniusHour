@@ -5,7 +5,7 @@ layout: post
 authors: ["Max Liu", "Jasmine AY"]
 categories: ["Project Details"]
 description: List of research sources as of November 23.
-thumbnail: "assets/images/IMG_20211211_215502131-01.jpg"
+thumbnail: https://media.githubusercontent.com/media/Nathan13888/GeniusHour/master/assets/images/IMG_20211211_215502131-01.jpg"
 image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_20211211_215502131-01.jpg"
 ---
 
