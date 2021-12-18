@@ -5,7 +5,7 @@ layout: post
 authors: ["Jasmine AY"]
 categories: ["Project Details"]
 description: Pseudo-formal project write-up.
-thumbnail: "assets/images/IMG_3802.JPG"
+thumbnail: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_3802.JPG"
 image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_3802.JPG"
 ---
 

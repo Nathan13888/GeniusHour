@@ -5,7 +5,7 @@ layout: post
 authors: ["Jasmine AY"]
 categories: ["Project Details"]
 description: Works cited and sources consulted.
-thumbnail: "assets/images/IMG_20211217_211246342.jpg"
+thumbnail: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_20211217_211246342.jpg"
 image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_20211217_211246342.jpg"
 ---
 

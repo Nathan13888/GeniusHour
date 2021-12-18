@@ -2,7 +2,7 @@
 title: "Week V | Weekly Update"
 date: 2021-11-27
 layout: post
-authors: ["Nathan C"]
+authors: ["Nathan Chung"]
 categories: ["Weekly Updates"]
 description: Progress update as of Friday November 27.
 thumbnail: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/expdes.png"
