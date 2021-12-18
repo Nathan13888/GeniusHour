@@ -5,8 +5,8 @@ layout: post
 authors: ["Jasmine AY"]
 categories: ["Project Details"]
 description: Pseudo-formal project write-up.
-thumbnail: "assets/images/resize.png"
-image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/resize.png"
+thumbnail: "assets/images/IMG_20211217_211246342.jpg"
+image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_20211217_211246342.jpg"
 ---
 
 In this post, I am going to summarize the content of the paper and link to the relevant posts. Please note that while the paper is somewhat formal, it does not follow all the conventions; there are no in-text citations, and as a result, I made some modifications/educated guesses for formatting the references list.
