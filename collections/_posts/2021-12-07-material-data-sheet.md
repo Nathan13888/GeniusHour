@@ -5,7 +5,7 @@ layout: post
 authors: ["Jasmine AY"]
 categories: ["Project Details"]
 description: Basic information for dye sample experiments.
-thumbnail: https://media.githubusercontent.com/media/Nathan13888/GeniusHour/master/assets/images/IMG_3405.JPG"
+thumbnail: https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_3405.JPG"
 image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_3405.JPG"
 ---
 

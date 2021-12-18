@@ -5,7 +5,7 @@ layout: post
 authors: ["Jasmine AY"]
 categories: ["Project Details"]
 description: Final meta videos for the hat process.
-thumbnail: https://media.githubusercontent.com/media/Nathan13888/GeniusHour/master/assets/images/resize.png"
+thumbnail: https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/resize.png"
 image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/resize.png"
 ---
 

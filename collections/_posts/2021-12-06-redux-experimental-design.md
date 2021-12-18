@@ -5,7 +5,7 @@ layout: post
 authors: ["Jasmine AY"]
 categories: ["Project Details"]
 description: Updated experimental design.
-thumbnail: https://media.githubusercontent.com/media/Nathan13888/GeniusHour/master/assets/images/IMG_1551.JPG"
+thumbnail: https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_1551.JPG"
 image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_1551.JPG"
 ---
 
