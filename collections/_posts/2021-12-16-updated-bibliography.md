@@ -5,8 +5,8 @@ layout: post
 authors: ["Jasmine AY"]
 categories: ["Project Details"]
 description: Works cited and sources consulted.
-thumbnail: "assets/images/resize.png"
-image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/resize.png"
+thumbnail: "assets/images/IMG_20211217_211246342.jpg"
+image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_20211217_211246342.jpg"
 ---
 
 The main body of this post is going to contain the annotated bibliography, which will reflect the scientific sources consulted during this project. At the end, links will be provided to a PDF copy of the full annotated bibliography, as well as to a PDF subdivided into lists of sources for each project component.
