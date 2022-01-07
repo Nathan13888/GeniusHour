@@ -73,3 +73,4 @@ exclude:
   - start.sh
   - carousel.sh
   - gallery.sh
+  - gallery-crop.sh
