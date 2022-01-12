@@ -4,7 +4,7 @@ date: 2022-01-11
 layout: post
 authors: ["Jasmine AY"]
 categories: ["Reflections"]
-description: or: things you find after you dye
+description: things you find after you dye
 thumbnail: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/postmortem.jpg"
 image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/postmortem.jpg"
 ---
