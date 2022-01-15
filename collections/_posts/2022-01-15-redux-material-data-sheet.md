@@ -5,8 +5,8 @@ layout: post
 authors: ["Jasmine AY"]
 categories: ["Project Details"]
 description: Updated material data sheet.
-thumbnail: https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_3405.JPG"
-image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_3405.JPG"
+thumbnail: https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_3426.JPG"
+image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_3426.JPG"
 ---
 
 Full disclosure -- I may have gotten around to editing this thanks to the extension, but my health has been a trainwreck recently, and I have not had the requisite spoons to make this perfect. As such, the structural formulas are still somewhat different sizes (and qualities) and the alt text is not amazing.
