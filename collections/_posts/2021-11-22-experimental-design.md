@@ -3,11 +3,13 @@ title: "Experimental Design"
 date: 2021-11-22
 layout: post
 authors: ["Jasmine AY"]
-categories: ["Project Details"]
+categories: ["Archives"]
 description: Outline for our "show and tell" components.
 thumbnail: https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_1370.JPG"
 image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_1370.JPG"
 ---
+
+*ETA 2022-01-15: updated experimental design post can be found [here](https://nathan13888.github.io/GeniusHour/blog/2021-12-06-redux-experimental-design/). This post remains live for posterity.*
 
 The experimental design PDF can be found on Google Drive [here](https://drive.google.com/file/d/1DZGF680ARMBXBzP1tZ__GN-TyKwg9a3m/view?usp=sharing). This link is accessible to all PDSB accounts.
 
