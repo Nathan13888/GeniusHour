@@ -3,11 +3,13 @@ title: "Material Data Sheet"
 date: 2021-12-07
 layout: post
 authors: ["Jasmine AY"]
-categories: ["Project Details"]
+categories: ["Archives"]
 description: Basic information for dye sample experiments.
 thumbnail: https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_3405.JPG"
 image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_3405.JPG"
 ---
+
+_ETA 2022-01-15: updated material data sheet post can be found [here](https://nathan13888.github.io/GeniusHour/blog/2022-01-15-redux-material-data-sheet). This post remains live for posterity._
 
 This was a content-heavy piece, containing a significant amount of text and images, so it can be found in PDF form [here](https://drive.google.com/file/d/1NWOqqXqVb8PQJOjicIENk1CoqcwrTcM8/view?usp=sharing). This version has some information condensed and the images have been removed.
 
