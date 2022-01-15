@@ -3,11 +3,13 @@ title: "Final Paper"
 date: 2021-12-17
 layout: post
 authors: ["Jasmine AY"]
-categories: ["Project Details"]
+categories: ["Archives"]
 description: Pseudo-formal project write-up.
 thumbnail: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_3802.JPG"
 image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_3802.JPG"
 ---
+
+*ETA 2022-01-15: updated final paper post can be found [here](https://nathan13888.github.io/GeniusHour/blog/2022-01-15-redux-final-paper/). This post remains live for posterity.*
 
 In this post, I am going to summarize the content of the paper and link to the relevant posts. Please note that while the paper is somewhat formal, it does not follow all the conventions; there are no in-text citations, and as a result, I made some modifications/educated guesses for formatting the references list.
 
