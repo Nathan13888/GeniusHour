@@ -9,7 +9,7 @@ thumbnail: https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IM
 image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_3925.JPG"
 ---
 
-The original post for this can be found [here](https://nathan13888.github.io/GeniusHour/blog/2021-12-17-final-paper/). The updated final paper PDF can be found [here](https://drive.google.com/file/d/1AjM9rH2uQ7QkAxP68FwhdjlUGrRju7cg/view?usp=sharing) on Google Drive, or by clicking the "Report" link at the top of this website.
+The original post for this can be found [here](https://nathan13888.github.io/GeniusHour/blog/2021-12-17-final-paper/). The updated final paper PDF can be found [here](https://drive.google.com/file/d/1AjM9rH2uQ7QkAxP68FwhdjlUGrRju7cg/view?usp=sharing) on Google Drive, or by clicking the "Report" link at the top of this website. It can also be found on Dropbox [here](https://www.dropbox.com/s/j3318f8do3s0kc3/finalpaperv.3.4.pdf?dl=0).
 
 I am actually going to go over everything in this post, since there are a bunch of links in the original that are outdated, so there will be some content copy+pasted from the archived post linked above. Much like in the original, I am just going to summarize the information found on the paper and give a quick note of the sections that have been updated.
 
@@ -59,7 +59,7 @@ I am so, so incredibly grateful. Thank you.
 
 ## References
 
-For references, consult the [doubly updated bibliography post](https://nathan13888.github.io/GeniusHour/blog/2022-01-15-redux-updated-bibliography/).
+For references, consult the [doubly updated bibliography post](https://nathan13888.github.io/GeniusHour/blog/2022-01-16-redux-updated-bibliography/).
 
 If you made it to the end -- thank *you* for reading! Hope you learned something, or at least managed to scratch an itch, even if it was one you didn't know you had.
 
