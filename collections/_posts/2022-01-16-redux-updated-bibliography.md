@@ -1,5 +1,5 @@
 ---
-title: "Updated Bibliography"
+title: "x2 Updated Bibliography"
 date: 2022-01-16
 layout: post
 authors: ["Jasmine AY"]
