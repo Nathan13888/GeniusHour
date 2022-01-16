@@ -1,10 +1,10 @@
 ---
-title: "x2 Updated Bibliography"
+title: "2x Updated Bibliography"
 date: 2022-01-16
 layout: post
 authors: ["Jasmine AY"]
 categories: ["Project Details"]
-description: Updated (again) bibliography for all components.
+description: Actual final reference lists.
 thumbnail: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_4098.jpg"
 image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_4098.jpg"
 ---
