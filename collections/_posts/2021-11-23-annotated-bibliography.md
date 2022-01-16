@@ -3,11 +3,13 @@ title: "Annotated Bibliography"
 date: 2021-11-23
 layout: post
 authors: ["Max Liu", "Jasmine AY"]
-categories: ["Project Details"]
+categories: ["Archives"]
 description: List of research sources as of November 23.
 thumbnail: https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_20211211_215502131-01.jpg"
 image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_20211211_215502131-01.jpg"
 ---
+
+*ETA 2022-01-16: doubly updated bibliography post can be found [here](https://nathan13888.github.io/GeniusHour/blog/2022-01-16-redux-updated-bibliography/). This post remains live for posterity.**
 
 ## Genius Hour Annotated Bibliography
 
