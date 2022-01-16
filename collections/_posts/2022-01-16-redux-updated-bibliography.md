@@ -1,5 +1,5 @@
 ---
-title: "(Redux) Updated Bibliography"
+title: "(Redux) Bibliography"
 date: 2022-01-16
 layout: post
 authors: ["Jasmine AY"]
