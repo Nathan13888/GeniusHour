@@ -3,11 +3,13 @@ title: "Updated Bibliography"
 date: 2021-12-16
 layout: post
 authors: ["Jasmine AY"]
-categories: ["Project Details"]
+categories: ["Archives"]
 description: Works cited and sources consulted.
 thumbnail: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_20211217_211246342.jpg"
 image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_20211217_211246342.jpg"
 ---
+
+*ETA 2022-01-16: doubly updated bibliography post can be found [here](nathan13888.github.io/GeniusHour/blog/2022-01-16-redux-updated-bibliography). This post remains live for posterity.*
 
 The main body of this post is going to contain the annotated bibliography, which will reflect the scientific sources consulted during this project. At the end, links will be provided to a PDF copy of the full annotated bibliography, as well as to a PDF subdivided into lists of sources for each project component.
 
@@ -141,7 +143,7 @@ A vibrant neon food colouring guide creating a neon blue, green, purple, and pin
 
 Product information for the Procion MX line of fibre reactive dyes, a line of cold water dyes that are fixed chemically in cold water. Used in ice, tub, and low water immersion dyeing. Includes recipes and chemical formulas.
 
-***Reactive dye*. Reactive Dye - an overview | ScienceDirect Topics. (N.d.) Retrieved November 23, 2021, from https://www.sciencedirect.com/topics/engineering/reactive-dye.**
+***Reactive dye*. Reactive Dye - an overview \| ScienceDirect Topics. (N.d.) Retrieved November 23, 2021, from https://www.sciencedirect.com/topics/engineering/reactive-dye.**
 
 Overview of reactive dyes, water treatment, and dyeing technology. Explanation of colour range, pigment,and fibres. Outline of the four parts of reactive dyes: the chromogen or the chromophoric part, the reactive system, a bridging unit, and the solubilising group(s) attached to the chromophoric grouping.
 
@@ -153,7 +155,7 @@ Material Safety Data Sheet Rit DyeMore for Synthetics, which was used in the exp
 
 Summary of various man-made fibres and the dyes best suited to them, including polyamide (nylon 6 and nylon 6,6), polyacrylonitrile, and polyester. Dyeing processes are also explored, including both disperse dyeing and mass-colouration.
 
-**Sadhegi-Kiakhani, M., & Safapour, S. (2015.) Salt-free reactive dyeing of the cotton fabric modified with chitosan-poly(propylene imine) dendrimer hybrid. *Fibers and Polymers, 16*(5), 1075-1081. doi:10.1007/s12221-015-1075-9.
+**Sadhegi-Kiakhani, M., & Safapour, S. (2015.) Salt-free reactive dyeing of the cotton fabric modified with chitosan-poly(propylene imine) dendrimer hybrid. *Fibers and Polymers, 16*(5), 1075-1081. doi:10.1007/s12221-015-1075-9.**
 
 Paper exploring the potential for pretreating cotton fabric in order to negate the need for the addition of electrolyte to the reactive dyebath. Analysis of factors originally causing the need for salt in the dye bath (e.g. static repulsion, dye aggregation), and more economical methods to obtain the same colour strength.
 
