@@ -5,7 +5,7 @@ layout: post
 authors: ["Jasmine AY"]
 categories: ["Project Details"]
 description: Updated (again) bibliography for all components.
-thumbnail: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_4098"
+thumbnail: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_4098.jpg"
 image: "https://github.com/Nathan13888/GeniusHour/raw/master/assets/images/IMG_4098.jpg"
 ---
 
