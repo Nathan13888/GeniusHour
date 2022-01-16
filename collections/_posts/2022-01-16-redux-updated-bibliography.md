@@ -1,6 +1,6 @@
 ---
 title: "Updated Bibliography"
-date: 2021-12-16
+date: 2022-01-16
 layout: post
 authors: ["Jasmine AY"]
 categories: ["Project Details"]
