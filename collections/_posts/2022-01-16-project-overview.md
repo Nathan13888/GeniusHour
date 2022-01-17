@@ -56,7 +56,7 @@ For more information on the website, a blog post on its construction can be foun
 
 ## Report
 
-Also linked at the top of this page; it can be found on Google Drive [here](https://drive.google.com/file/d/1AjM9rH2uQ7QkAxP68FwhdjlUGrRju7cg/view?usp=sharing) and on Dropbox [here](https://www.dropbox.com/s/j3318f8do3s0kc3/finalpaperv.3.4.pdf?dl=0). The up-to-date blog post on it can be found [here](https://nathan13888.github.io/GeniusHour/blog/2022-01-15-redux-final-paper/) and the archived one is [here](https://nathan13888.github.io/GeniusHour/blog/2021-12-17-final-paper/).
+Also linked at the top of this page; it can be found on Google Drive [here](https://drive.google.com/file/d/1Bya3sSE8T4Dv_GVGCUVFW2QnxY1hFj4K/view?usp=sharing) and on Dropbox [here](https://www.dropbox.com/s/abjt17xpn7s5i6c/finalpaperv.3.6.pdf?dl=0). The up-to-date blog post on it can be found [here](https://nathan13888.github.io/GeniusHour/blog/2022-01-15-redux-final-paper/) and the archived one is [here](https://nathan13888.github.io/GeniusHour/blog/2021-12-17-final-paper/).
 
 The report covers a basic literature review, experimental procedure, results, and vague conclusions. This is your best bet for a (relatively) quick look at all the key points of the project.
 
