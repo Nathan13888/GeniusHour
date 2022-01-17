@@ -1,5 +1,5 @@
 ---
-title: "Improvements One Month Later!"
+title: "Improvements One Month Later"
 date: 2022-01-16
 layout: post
 authors: ["Nathan Chung"]
